@@ -2,17 +2,17 @@
 <h3 align="center">A Master's student specializing in Signal Processing and Machine Learning</h3>
 
 <p align="center">
-  🎓 <strong>Watch my <a href="https://youtu.be/bD--t-m-zvE?si=MTpIYA9ZZ4VaSUUB" target="_blank">Graduation Speech</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp;
-  🎤 <strong>Check out my <a href="https://youtu.be/for_-b3LyNI?si=JGtRhj25b-kw4kmU" target="_blank">TEDx Talk</a></strong>
+  🎓 <strong>Watch my <a href="https://youtu.be/bD--t-m-zvE" target="_blank">Graduation Speech</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🎤 <strong>Check out my <a href="https://youtu.be/for_-b3LyNI" target="_blank">TEDx Talk</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/bD--t-m-zvE?si=MTpIYA9ZZ4VaSUUB" target="_blank">
-    <img src="https://youtu.be/for_-b3LyNI?si=EazT53s0sNHufEOi/maxresdefault.jpg" alt="Graduation Speech" width="45%" />
+  <a href="https://youtu.be/bD--t-m-zvE" target="_blank">
+    <img src="https://img.youtube.com/vi/bD--t-m-zvE/maxresdefault.jpg" alt="Graduation Speech" width="45%" />
   </a>
   &nbsp;
-  <a href="https://youtu.be/for_-b3LyNI?si=JGtRhj25b-kw4kmU" target="_blank">
-    <img src="https://youtu.be/for_-b3LyNI?si=JGtRhj25b-kw4kmU/maxresdefault.jpg" alt="TEDx Talk" width="45%" />
+  <a href="https://youtu.be/for_-b3LyNI" target="_blank">
+    <img src="https://img.youtube.com/vi/for_-b3LyNI/maxresdefault.jpg" alt="TEDx Talk" width="45%" />
   </a>
 </p>
 
